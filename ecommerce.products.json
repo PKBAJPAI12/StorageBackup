@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6532d9b414cd5189dfabe736"
+  },
+  "name": "Jeans Aviva",
+  "description": "this is product",
+  "price": 1200,
+  "rating": 3,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "jdie_product_list.webp",
+      "_id": {
+        "$oid": "6532d9b414cd5189dfabe737"
+      }
+    },
+    {
+      "public_id": "sample Image",
+      "url": "jdie_product_list.webp"
+    }
+  ],
+  "category": "phone",
+  "Stock": 1,
+  "numOfReviews": 20,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-20T19:49:08.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6533fb3ca4820a1ebfc5306c"
+  },
+  "name": "Shirt",
+  "description": "this is product",
+  "price": 1250,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample Image1",
+      "url": "model-gc65100ef7_640-removebg-preview.png",
+      "_id": {
+        "$oid": "6533fb3ca4820a1ebfc5306d"
+      }
+    }
+  ],
+  "category": "laptop",
+  "Stock": 1,
+  "numOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-21T16:24:28.693Z"
+  },
+  "__v": 0
+}]

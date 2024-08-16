@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "65340f6a80a6d9dd923c96f5"
+  },
+  "name": "prat",
+  "email": "prateek@gmail.com",
+  "password": "password",
+  "profile": {
+    "public_id": "this is id",
+    "url": "profilePic"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-10-21T17:50:34.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657456ab41cb8a0490093e4d"
+  },
+  "name": "Prateek",
+  "email": "ritik.gbss@gmail.com",
+  "password": "$2a$10$yOXV6S6V4pOveo8Cil6ZyOBlapkfFASbzDHsdnQTV.0HVAzYpo.F.",
+  "profile": {
+    "public_id": "avatars/kriu6y3r7wapttjtz4n0",
+    "url": "https://res.cloudinary.com/dbuxnw3fm/image/upload/v1702123182/avatars/kriu6y3r7wapttjtz4n0.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-12-09T11:59:39.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65748e0f17b27508d24d3f4e"
+  },
+  "name": "Sohan",
+  "email": "prateek.dme@gmail.com",
+  "password": "$2a$10$6XSKttadb7DO0T2cws2wBOMjirba/GqoQlUsticQxw4NwHV3Y6pJi",
+  "profile": {
+    "public_id": "avatars/xzafclap2ueopoh1ad3s",
+    "url": "https://res.cloudinary.com/dbuxnw3fm/image/upload/v1702137358/avatars/xzafclap2ueopoh1ad3s.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-12-09T15:55:59.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6575be4483e65b86962aa222"
+  },
+  "name": "raman",
+  "email": "raman@gmail.com",
+  "password": "$2a$10$kVlDW520dG0HCigrrEkzw.TzjmXE2BUSZP4CtkfNHr4d.t9rF0oGu",
+  "profile": {
+    "public_id": "avatars/ssztekiqj11imd2mkbeu",
+    "url": "https://res.cloudinary.com/dbuxnw3fm/image/upload/v1702215235/avatars/ssztekiqj11imd2mkbeu.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-12-10T13:33:56.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c856564f412009be886ef"
+  },
+  "name": "shyam",
+  "email": "sohan@gmail.com",
+  "password": "$2a$10$l0h73mhb74Wv27iHTIjoWOG9MWPpTwf8grJi51s1k8Xh08ekwPFkK",
+  "profile": {
+    "public_id": "avatars/gsmdmlytwasbwiuxqtsn",
+    "url": "https://res.cloudinary.com/dbuxnw3fm/image/upload/v1702672349/avatars/gsmdmlytwasbwiuxqtsn.png"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-12-15T16:57:09.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d83539684383c6e9d0dc7"
+  },
+  "name": "Prateek",
+  "email": "prateek.cse.uiet@gmail.com",
+  "password": "$2a$10$eav.JuTAXa1kqDahm8HBdukq25dkR14Cf9nvEZUxPikoFwshdvddm",
+  "profile": {
+    "public_id": "avatars/nftmybj38zgtpzjim4gt",
+    "url": "https://res.cloudinary.com/dbuxnw3fm/image/upload/v1702724435/avatars/nftmybj38zgtpzjim4gt.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-12-16T11:00:35.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65901b23dc7004689899ad1c"
+  },
+  "name": "Prateek",
+  "email": "prateek.dme.dite@gmail.com",
+  "password": "$2a$10$apiZQoxAB/z1.McMXtl49uV25D0t83B8N4T7X6EqhqUASd7zMz.B.",
+  "profile": {
+    "public_id": "avatars/r5nst5ornc3ognitlq8c",
+    "url": "https://res.cloudinary.com/dbuxnw3fm/image/upload/v1703942947/avatars/r5nst5ornc3ognitlq8c.png"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-12-30T13:29:07.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aea10d10637599ee854ef5"
+  },
+  "name": "Prateek Bajpai",
+  "email": "prateek.dme.dite@gmail.com",
+  "password": "$2a$10$WNfhr/eqqJ9zJOxKs49zDO0nBxe71lRPgRb0GqWB3S9yvMjr6sbha",
+  "profile": {
+    "public_id": "avatars/wcdamau5f6qyj3ucw1ba",
+    "url": "https://res.cloudinary.com/dbuxnw3fm/image/upload/v1705943310/avatars/wcdamau5f6qyj3ucw1ba.png"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-01-22T17:08:29.742Z"
+  },
+  "__v": 0
+}]
